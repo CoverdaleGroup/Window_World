@@ -1,6 +1,6 @@
 /*
 Static file for Theme changes
-Theme name: Jackson Lewis
+Theme name: Window World
 Version: 1.0
 Template: Base
 Created: 10/14/16
@@ -11,17 +11,13 @@ Authors: Coverdale Group
 
 .btn-advertising {
 
-    background-color: #41b0d9;
-    color: #fff;
+    border-color: #91c235;
+	background-color: #91c235;
+	color: #fff;
     font-weight: bold;
 }
 
-.btn-advertising:hover {
 
-    background-color: #1396C7;
-    color: #fff;
-    font-weight: bold;
-}
 
 
 /******************/
@@ -51,7 +47,7 @@ Authors: Coverdale Group
 
 .header-navigation {
     height: 30px;
-    background-color: #f7f7f7;
+    background-color: #f9f9f9;
     color: #ffffff;
 }
 
@@ -71,7 +67,7 @@ Authors: Coverdale Group
 }
 
 .header-navigation .badge {
-    background-color:#0060A0;
+    background-color:#012093;
     margin-left:3px;
 }
 
@@ -88,7 +84,7 @@ Authors: Coverdale Group
 .category-navigation .navbar .container .navbar-nav.pull-right li a,
 .category-navigation .navbar .container-view .navbar-nav.pull-right li a {
     padding:10px;
-    color: #8ba6c3;
+    color: #012093;
     font-weight: normal;
 }
 
@@ -101,7 +97,7 @@ Authors: Coverdale Group
 .category-navigation .navbar .container-view .navbar-nav.pull-right li a:hover,
 .category-navigation .navbar .container .navbar-nav.pull-right li a:focus,
 .category-navigation .navbar .container-view .navbar-nav.pull-right li a:focus {
-    color:#0060A0;
+    color:#012093;
     background-color:#fff;
 }
 
@@ -110,7 +106,7 @@ Authors: Coverdale Group
 .category-navigation .navbar .container .navbar-nav.pull-right li ul li a:focus,
 .category-navigation .navbar .container-view .navbar-nav.pull-right li ul li a:focus {
     color:#fff;
-    background-color:#0060A0;
+    background-color:#012093;
 }
 
 .category-navigation ul li ul li {width:100%}
@@ -136,7 +132,7 @@ Authors: Coverdale Group
 }
 
 .app-loading-indicator-cell i {
-    color: #0060A0;
+    color: #012093;
 }
 
 .app-loading-indicator-cell p {
@@ -167,7 +163,7 @@ body {
 
 
 body a {
-    color: #0877A7;
+    color: #012093;
     font-size: 16px;
     font-weight: normal;
 }
@@ -182,14 +178,14 @@ a:hover, a:visited, a:link, a:active
 }
 
 .panel-nav ul li ul li a {
-    color: #0877a7;
+    color: #012093;
     font-size: 14px;
     font-weight: bold;
 
 }
 
 .panel-nav ul li ul li ul li a {
-    color: #3db6ea;
+    color: #012093;
     font-size: 14px;
     font-weight: normal;
 
@@ -241,28 +237,32 @@ a:hover, a:visited, a:link, a:active
 
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lato', sans-serif;
 }
 
 body {
-    font-family: 'Arial';
-    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+    
 }
 
 input, button, select, textarea {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lato', sans-serif;
 }
 
 .btn-info {
-    border-color: #0877A7;
+    border-color: #91c235;
+	background-color: #91c235;
+	color: #fff;
+    font-weight: bold;
 }
 
-.btn-info {
-    background-color: #0877A7;
-}
+
 
 .btn-primary {
-    background-color: #043B56;
+    border-color: #91c235;
+	background-color: #91c235;
+	color: #fff;
+    font-weight: bold;
 }
 
 
@@ -280,8 +280,8 @@ input, button, select, textarea {
 
 .navbar-default {
 
-    background-color: #0877a7;
-    border-color: #0877a7;
+    background-color: #f5f5f5;
+    border-color: #f5f5f5;
 }
 
 .navbar-default .navbar-nav > li > a {
@@ -307,7 +307,7 @@ input, button, select, textarea {
 
 .assistancebox {
 
-    background-color: #0877a7;
+    background-color: #012093;
     color: #ffffff;
     padding: 15px;
     margin: 10px 0 10px 0;
