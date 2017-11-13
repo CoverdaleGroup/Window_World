@@ -79,7 +79,7 @@ Authors: Coverdale Group
     margin-bottom: -1px;
 }
 
-.category-navigation {margin:45px auto 0}
+.category-navigation {margin:25px auto 0}
 
 .category-navigation .navbar .container .navbar-nav.pull-right li a,
 .category-navigation .navbar .container-view .navbar-nav.pull-right li a {
@@ -249,20 +249,37 @@ input, button, select, textarea {
     font-family: 'Lato', sans-serif;
 }
 
-.btn-info {
+.btn-info, .btn-info:hover {
     border-color: #91c235;
 	background-color: #91c235;
 	color: #fff;
     font-weight: bold;
 }
 
-
-
-.btn-primary {
+.btn-primary, .btn-primary:hover {
     border-color: #91c235;
 	background-color: #91c235;
 	color: #fff;
     font-weight: bold;
+}
+
+.btn-success, .btn-success:hover {
+    border-color: #91c235;
+	background-color: #91c235;
+	color: #fff;
+    font-weight: bold;
+}
+
+.btn-danger, .btn-danger:hover {
+    border-color: #f75a37;
+	background-color: #f75a37;
+	color: #fff;
+    font-weight: bold;
+}
+
+.text-info, .text-success {
+	
+	color: #012093;
 }
 
 
